@@ -16,7 +16,13 @@
     flex-direction: column;
     height: 600px;
   }
+  nav{
+    display: flex;
+    flex-direction: column;
+    max-width: 100%:
+    
 }
+
 
 body > p::first-letter {
   color: rgb(136, 78, 8);
