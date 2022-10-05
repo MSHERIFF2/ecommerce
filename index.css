@@ -19,9 +19,15 @@
   nav{
     display: flex;
     flex-direction: column;
-    max-width: 100%:
+    max-width: 100%;
+  }
+  nav ul li{
+    max-width:100px;
+    display:block;
+  }
     
 }
+
 
 
 body > p::first-letter {
